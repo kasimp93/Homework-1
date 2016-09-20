@@ -21,4 +21,6 @@ for num in range (1,5):
     
 f = ["a","b",123445,"asfdfdfd"]
 print(f)
-    
+
+a= [1,2,3,4]
+print(a)
