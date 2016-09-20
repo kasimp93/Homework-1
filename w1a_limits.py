@@ -19,6 +19,6 @@ for num in range (1,5):
     print (x.format(b, largest, minim, maxim ))
     b = b*2  
     
-f = ["a","b",123445]
+f = ["a","b",123445,"asfdfdfd"]
 print(f)
     
