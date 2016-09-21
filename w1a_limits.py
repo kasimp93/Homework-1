@@ -22,5 +22,5 @@ for num in range (1,5):
 f = ["a","b",123445,"asfdfdfd"]
 print(f)
 
-a= [9,8,7,6,5,4,3,2]
+a= [9,8,7,6,5,4,3,2,"new element"]
 print(a)
