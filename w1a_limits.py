@@ -23,8 +23,12 @@ f = ["a","b",123445,"asfdfdfd"]
 print(f)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 a= [1,2,3,4]
 =======
 a= [9,8,7,6,5,4,3,2]
 >>>>>>> master
+=======
+a= [9,8,7,6,5,4,3,2,"new element"]
+>>>>>>> e32bde129dcf4c3060b03f8f2c919f50eb19a4a8
 print(a)
